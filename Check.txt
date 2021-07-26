@@ -1,1 +1,3 @@
 Git commands
+
+Git add . => To add all file to staging area in which changes have been made
